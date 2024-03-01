@@ -1,7 +1,11 @@
 👋 Hi, I'm Francisco
 =====
 
-I'm currently studying various subjects related to computer science at [42 Lisboa](https://www.42lisboa.com/).
+I recently submitted the last Common Core project at [42 Lisboa](https://www.42lisboa.com/) and am now looking for opportunities to apply and grow the skills I've aquired throughout the course.
+
+Most of my eperience/skill lies in writting safe C/C++. I've also done some Python scripting to familiarize myself with the language and automate some things but I have much yet to learn.
+
+The languages I'm more eager to learn at the moment are Go and Rust.
 
 # 💻 Tech Stack:
 <div style="display: inline_block">
@@ -17,7 +21,11 @@ I'm currently studying various subjects related to computer science at [42 Lisbo
 	 <img alt="RPi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
    <img alt="Pi-hole" src="https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logo=Pi-hole&logoColor=white">
 </div>
-<br>
+
+# ⚡ Other Interests:
+
+- Raspberry Pi based homelab for learning about Linux administration, Shell Scripting, Docker containerization and network security. It also serves as a media server and private VPN (Plex, Samba, Wireguard)
+- Penetration testing techniques/ethical hacking
 
 # 📊 GitHub Stats:
 
@@ -25,9 +33,3 @@ I'm currently studying various subjects related to computer science at [42 Lisbo
 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=m3tra&hide_rank=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3tra&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
 </div>
-<br>
-
-# ⚡ Other Interests:
-
-- Raspberry Pi based homelab for learning about containerization, network security, scripting and Linux fundamentals. Also serves as a media server and private VPN (Plex, Samba, Wireguard)
-- Spent some time investigating penetration testing techniques
